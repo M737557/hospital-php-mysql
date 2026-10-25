@@ -4,7 +4,7 @@ readme inside 7zip. https://www.7-zip.org/
 <br><br>
 
 Updates<hr><br>
-
+October 25 2026<br>
 php extensions gd must be enabled for photo uploads of patient.<br>
 ;extension=gd -> extension=gd<br>
 in php.ini<br>
