@@ -9,7 +9,7 @@ php extensions gd must be enabled for <b>photo uploads of patient.</b><br>
 ;extension=gd -> extension=gd<br>
 in php.ini<br>
 
-<br><br>
+<br>
 October 21 2026<br>
 **hospital.sql** (updated) file, is newest engine, must be replaced for the original 7z file.<br>
 Now medications are in English instead of Icelandic language.
