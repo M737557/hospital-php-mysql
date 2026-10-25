@@ -5,9 +5,9 @@ readme inside 7zip. https://www.7-zip.org/
 
 Updates<hr><br>
 
-php extensions gd must be enabled for photo uploads of patient.
-;extension=gd -> extension=gd
-in php.ini
+php extensions gd must be enabled for photo uploads of patient.<br>
+;extension=gd -> extension=gd<br>
+in php.ini<br>
 <br>
 
 <br>br><br>
