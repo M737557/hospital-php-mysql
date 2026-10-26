@@ -2,8 +2,8 @@
 Hospital software in php and mysql simple<br>
 readme inside 7zip. https://www.7-zip.org/
 <br><br>
-
-Updates<hr><br>
+<hr>
+Updates<br>
 October 25 2026<br>
 php extensions gd must be enabled for <b>photo uploads of patient.</b><br>
 ;extension=gd -> extension=gd<br>
