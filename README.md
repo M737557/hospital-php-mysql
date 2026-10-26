@@ -14,7 +14,8 @@ October 21 2026<br>
 <b>hospital.sql</b> (updated) file, is newest engine, must be replaced for the original 7z file.<br>
 Now medications are in English instead of Icelandic language.
 
-
+<br>
+<hr>
 Authentication<br>
 https://apps.apple.com/us/app/microsoft-authenticator/id983156458
 
