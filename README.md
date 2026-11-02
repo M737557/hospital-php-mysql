@@ -7,7 +7,7 @@ Got an issue or question, use Issues.<br>
 <br><br>
 <hr>
 Updates<br>
-There are some issues on Synology nas with the code. I am currently investigating what is the root-cause. <br>
+There are some issues on Synology nas with the code. I am currently investigating what is the root-cause for the 503 error page <br>
 
 <br>
 
