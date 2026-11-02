@@ -8,7 +8,7 @@ Got an issue or question, use Issues.<br>
 <hr>
 Updates<br>
 There are some issues on Synology nas with the code. I am currently investigating what is the root-cause for the 503 error page <br>
-My main setup is xampp-windows-x64-8.2.12-0-VS16.exe
+My main setup is xampp-windows-x64-8.2.12-0-VS16.exe<br>
 
 <br>
 
