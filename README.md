@@ -7,6 +7,10 @@ Got an issue or question, use Issues.<br>
 <br><br>
 <hr>
 Updates<br>
+There are some issues on Synology nas with the code. I am currently investigating what is the root-cause. <br>
+
+<br>
+
 October 25 2026<br>
 php extensions gd must be enabled for <b>photo uploads of patient.</b><br>
 ;extension=gd -> extension=gd<br>
