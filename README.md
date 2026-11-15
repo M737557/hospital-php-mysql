@@ -13,6 +13,9 @@ and PHPDesktop are tested<br>
 
 <br>
 
+November 15 2026<br
+I am still updating/adding languages. Stay tuned.<br><br>
+
 October 25 2026<br>
 php extensions gd must be enabled for <b>photo uploads of patient.</b><br>
 ;extension=gd -> extension=gd<br>
