@@ -12,6 +12,8 @@ My main setup is xampp-windows-x64-8.2.12-0-VS16.exe<br>
 and PHPDesktop are tested<br>
 
 <br>
+November 16 2026<br>
+English uploaded<br><br>
 
 November 15 2026<br>
 I am still updating/adding languages. Stay tuned.<br><br>
