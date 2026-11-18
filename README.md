@@ -1,15 +1,17 @@
 # hospital-php-mysql
-<center>
-<img src="https://i.ibb.co/1G485Jv2/logon.png"><br>
-<img src="https://i.ibb.co/CLv4CCd/tool.png"><br>
-</center>
-
-
 Hospital software in php and mysql simple<br>
 readme setup inside
 
 <br>
 7zip. https://www.7-zip.org/
+
+
+<img src="https://i.ibb.co/1G485Jv2/logon.png"><br>
+<img src="https://i.ibb.co/CLv4CCd/tool.png"><br>
+
+
+
+
 
 Got an issue or question, use Issues.<br>
 
