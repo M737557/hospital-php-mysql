@@ -5,7 +5,10 @@
 
 
 Hospital software in php and mysql simple<br>
-readme inside 7zip. https://www.7-zip.org/
+readme setup inside
+
+<br>
+7zip. https://www.7-zip.org/
 
 Got an issue or question, use Issues.<br>
 
