@@ -1,7 +1,8 @@
 # hospital-php-mysql
+<center></centeR>
 <img src="https://i.ibb.co/1G485Jv2/logon.png"><br>
 <img src="https://i.ibb.co/CLv4CCd/tool.png"><br>
-
+</center>
 
 
 Hospital software in php and mysql simple<br>
