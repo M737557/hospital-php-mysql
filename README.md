@@ -3,8 +3,8 @@ Hospital software in php and mysql simple<br>
 readme setup inside
 
 <br>
-7zip. https://www.7-zip.org/
-
+zipped as 7zip. <br>https://www.7-zip.org/
+<br>
 
 <img src="https://i.ibb.co/1G485Jv2/logon.png"><br>
 <img src="https://i.ibb.co/CLv4CCd/tool.png"><br>
